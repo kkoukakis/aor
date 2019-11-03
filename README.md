@@ -1,5 +1,5 @@
 # aor
- Algorithmic Operation Research
+ Algorithmic Operations Research
  
  #Homework 1
  
